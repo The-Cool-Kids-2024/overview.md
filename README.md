@@ -1,4 +1,4 @@
-# overview.md
+# the-cool-kids-2024.md
 ## Project Proposal Overview
 
 ## Details
